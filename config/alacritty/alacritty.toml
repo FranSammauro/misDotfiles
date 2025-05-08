@@ -8,7 +8,7 @@
 
 [general]
 import = [
-"themes/emilia.toml",
+"themes/Rice3.toml",
 "fonts.toml",
 ]
 
