@@ -1,0 +1,44 @@
+2025-05-09 16:28:26.143 [info] Started local extension host with pid 2880.
+2025-05-09 16:28:26.174 [info] Started initializing default profile extensions in extensions installation folder. file:///home/fran/.vscode-oss/extensions
+2025-05-09 16:28:26.256 [info] ComputeTargetPlatform: linux-x64
+2025-05-09 16:28:26.292 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-09 16:28:26.339 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/fran/.vscode-oss/extensions
+2025-05-09 16:28:29.103 [info] [perf] Render performance baseline is 18ms
+2025-05-09 16:30:37.913 [error] SignatureVerificationInternal: Signature verification was not executed.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63971)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-05-09 16:30:37.918 [error] Signature verification was not executed.: SignatureVerificationInternal: Signature verification was not executed.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63971)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-05-09 16:42:37.560 [info] Started local extension host with pid 4460.
+2025-05-09 16:42:37.642 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-09 16:42:37.697 [info] ComputeTargetPlatform: linux-x64
+2025-05-09 16:42:40.215 [info] [perf] Render performance baseline is 18ms
+2025-05-09 16:43:54.253 [error] SignatureVerificationInternal: Signature verification was not executed.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63971)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-05-09 16:43:54.257 [error] Signature verification was not executed.: SignatureVerificationInternal: Signature verification was not executed.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63971)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-05-09 16:46:25.674 [error] [Extension Host] Error: EEXIST: file already exists, mkdir '/home/fran/Desktop/c++/code.cpp'
+2025-05-09 16:46:49.571 [info] Started local extension host with pid 4757.
+2025-05-09 16:46:49.736 [info] ComputeTargetPlatform: linux-x64
+2025-05-09 16:46:49.802 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-09 16:46:52.231 [info] [perf] Render performance baseline is 18ms
+2025-05-09 16:47:44.325 [warning] [File Watcher] Watcher shutdown because watched path got deleted (path: /home/fran/Desktop/c++/code.cpp)
+2025-05-09 16:47:50.256 [error] Error: The editor could not be opened because the file was not found.
+    at ySe.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2163:120185)
+    at async ySe.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2163:119343)
+    at async XHe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:19756)
+    at async XHe.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:18311)
+    at async XHe.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:17393)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:797:23342
+    at async Hne.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:839:37089)
+2025-05-09 16:48:04.622 [error] Error: The editor could not be opened because the file was not found.
+    at ySe.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2163:120185)
+    at async ySe.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2163:119343)
+    at async XHe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:19756)
+    at async XHe.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:18311)
+    at async XHe.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:17393)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:797:23342
+    at async Hne.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:839:37089)
